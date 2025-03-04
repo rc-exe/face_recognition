@@ -1,0 +1,15 @@
+numpy
+opencv-python
+tensorflow
+keras
+matplotlib
+scipy
+pandas
+seaborn
+tqdm
+scikit-learn
+imutils
+h5py
+flask
+streamlit
+deepface
