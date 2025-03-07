@@ -13,3 +13,4 @@ h5py
 flask
 streamlit
 deepface
+gunicorn
